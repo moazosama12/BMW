@@ -1,0 +1,27 @@
+h1{
+    margin: 0px;
+    
+
+
+border: 5px solid;
+background: linear-gradient(green, lightgreen);
+
+border-color: black
+
+
+
+}
+body{
+
+background-image: url(download.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+}
+img{border: solid black;}
+p{color: white;}
+table{color: white; border-color: white; border-radius: 5px;}
+button{color: white;background-color: transparent;border: 3.3px solid grey;cursor:pointer ;border-radius: 15px;}
+button:hover{background-color: grey;}
+button:active{background-color: white;}
